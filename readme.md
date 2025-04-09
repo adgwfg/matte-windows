@@ -15,6 +15,11 @@ Matte changes/adds:
 - replaces all default apps with open source ones
 - adds a top bar instead of using the default annoying desktop switcher
 - adds a better settings (coming soon)
-
+----
+DISCLAIMER : (DO NOT DO THIS IF YOUR PC IS NOT RESET)
+how to install?
+- reset PC 
+- install installer
+- restart pc
 ----
 Current status: working on it
