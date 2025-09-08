@@ -11,7 +11,7 @@ Matte removes:
 - removes any trace of windows spying on you and disables windows spying on you
 
 Matte changes/adds:
-- windows start menu
+- disables windows start menu
 - replaces all default apps with open source ones
 - adds a top bar instead of using the default annoying desktop switcher
 - adds a better settings (coming soon)
@@ -22,4 +22,6 @@ how to install?
 - install installer
 - restart pc
 ----
-Current status: working on it
+Current status: concept design is done
+
+this will come out withing this year 2025 or at the beginning of 2026.
