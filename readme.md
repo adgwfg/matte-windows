@@ -3,25 +3,13 @@
 Windows has a ton of bloatware and it's hard to remove everything. Well that's where matte windows comes in here is what it will do.
 
 ---
-Matte removes:
-- bloatware and disables useless services
-- prevent windows apps from starting automatically
-- removed compiler and recall
-- removes Xbox game manager and Microsoft store
-- removes any trace of windows spying on you and disables windows spying on you
 
-Matte changes/adds:
-- disables windows start menu
-- replaces all default apps with open source ones
-- adds a top bar instead of using the default annoying desktop switcher
-- adds a better settings (coming soon)
-----
-DISCLAIMER : (DO NOT DO THIS IF YOUR PC IS NOT RESET)
-how to install?
-- reset PC 
-- install installer
-- restart pc
-----
-Current status: concept design is done
+Updated: 17/09/2025
 
-this will come out withing this year 2025 or at the beginning of 2026.
+--
+
+This project will be based on atlas os you could use regular windows as there will be no problems with that but its recommended to use atlasos (https://atlasos.net).
+
+This project will be a recreation of end4 dots on windows (with its own spin).
+
+The project is currently being actively made and is scheduled not to released next year but this year (2025)
