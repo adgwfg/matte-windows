@@ -1,4 +1,4 @@
-## a new way to expierence windows
+## a preset config for windows
 ----
 
 ---
@@ -7,7 +7,7 @@ Updated: 18/09/2025
 
 --
 
-This project will be based on atlas os you could use regular windows as there will be no problems with that but its recommended to use atlasos (https://atlasos.net).
+This project will be based on atlas os. you could use regular windows as there will be no problems with that but its recommended to use atlasos (https://atlasos.net).
 
 This project will be a recreation of end4 dots on windows (with its own spin).
 
@@ -24,3 +24,20 @@ The project is currently being actively made and is scheduled not to released ne
 - cleaning the yasb file (there is a lot of junk there since i based it off the default config)
 
 - contact me on discord!: @zand_zand
+
+---
+##### this part exists for future
+# Tutorial on how to properly install
+
+# reset method
+- reset your pc using the windows iso installer (see tutorial on how to reset your pc and get rid of all the bloatware on https://atlasos.net)
+- create restore point (IMPORTANT AND NEEDED DO NOT PROCEED WITHOUT RESTORE POUNT)
+- install atlasos (optional)
+- install matte windows
+- restart
+
+# no reset method (not recommended but will work fine)
+- create a restore point (IMPORTANT AND NEEDED DO NOT PROCEED WITHOUT RESTORE POUNT)
+- install atlasos (optional
+- install matte
+- restart
