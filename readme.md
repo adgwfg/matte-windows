@@ -31,13 +31,13 @@ The project is currently being actively made and is scheduled not to released ne
 
 # reset method
 - reset your pc using the windows iso installer (see tutorial on how to reset your pc and get rid of all the bloatware on https://atlasos.net)
-- create restore point (IMPORTANT AND NEEDED DO NOT PROCEED WITHOUT RESTORE POUNT)
+- create restore point (IMPORTANT AND NEEDED DO NOT PROCEED WITHOUT RESTORE POINT)
 - install atlasos (optional)
 - install matte windows
 - restart
 
 # no reset method (not recommended but will work fine)
-- create a restore point (IMPORTANT AND NEEDED DO NOT PROCEED WITHOUT RESTORE POUNT)
+- create a restore point (IMPORTANT AND NEEDED DO NOT PROCEED WITHOUT RESTORE POINT)
 - install atlasos (optional
 - install matte
 - restart
