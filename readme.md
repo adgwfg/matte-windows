@@ -44,15 +44,5 @@ The project is currently being actively made and is scheduled not to released ne
 
 ----
 # the future of matte
-the project will start as (pre-configured programs)
 
 but i am planning to turn this into a playbook os like atlas. the style will not change at all.
-
-----
-# here is what you can expect in the future.
- - advanced theming ( aka style patching )
- - a costum lockscreen
- - Basically everything about costumization
- - better settings and etc
-
- ### note I have not yet decided to go further with this this will be decided on first release and how many people want this to happen
