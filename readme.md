@@ -38,6 +38,6 @@ The project is currently being actively made and is scheduled not to released ne
 
 # no reset method (not recommended but will work fine)
 - create a restore point (IMPORTANT AND NEEDED DO NOT PROCEED WITHOUT RESTORE POINT)
-- install atlasos (optional
+- install atlasos (optional (this might break windows i will not recommend. but you can still do it at your own risk. (yes i tried without reseting it bricked my old laptop) ))
 - install matte
 - restart
