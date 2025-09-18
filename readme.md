@@ -23,7 +23,7 @@ The project is currently being actively made and is scheduled not to released ne
 - improving komorebi animations for config
 - cleaning the yasb file (there is a lot of junk there since i based it off the default config)
 
-- contact me on discord!: @zand_zand
+- contact me on discord!: @zand_zand (if you are interested in helping this project
 
 ---
 ##### this part exists for future
